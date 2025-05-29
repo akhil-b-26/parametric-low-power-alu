@@ -66,11 +66,7 @@ For operations that don’t use operand `B` (e.g., NOT, INC, SHL), the `B` input
 
 ## 🖼️ Waveform Output
 
-Waveform simulation results for mare shown below.
-
-> 📷 **Note**: Instead of uploading a `.vcd` file, the waveform is shared as a screenshot image.
-
-![Waveform Output](parametric_alu_waveform.png)
+The waveform simulation results have been shared as a screenshot image instead of uploading a `.vcd` file.
 
 ---
 
